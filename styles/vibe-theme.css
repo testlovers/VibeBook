@@ -1,0 +1,19 @@
+.dark {
+  background-color: #121212;
+  color: white;
+}
+.light {
+  background-color: #f4f4f4;
+  color: #121212;
+}
+.theme-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.page {
+  padding: 20px;
+  font-family: sans-serif;
+}
